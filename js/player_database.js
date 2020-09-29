@@ -4,8 +4,8 @@ var myPlaylist = new jPlayerPlaylist({
     cssSelectorAncestor: "#jp_container_N"
 },
  [
-     { title: "Every Breath You Take ", artist: "Music Travel Love", mp3:"images/1.mp3", poster: "images/1.jpg"},
-     { title: "Im All About You", artist: "Aaron Carter", mp3:"images/2.mp3 ", poster: "images/2.jpg"},
+     { title: "Bạn chưa chơi đồ ", artist: "Shin", mp3:"images/1.mp3", poster: "images/1.jpg"},
+     { title: "Về bên anh ", artist: "Jack", mp3:"images/2.mp3", poster: "images/2.jpg"},
      { title: "Miss You Like Crazy", artist: "TheMoffatts", mp3:"images/3.mp3", poster: "images/3.jpg"},
      { title: "Best Of Me ", artist: "Daniel Powter", mp3:"images/4.mp3", poster: "images/4.jpg"},
      { title: "Every Day I Love You", artist: "Boyzone", mp3:"images/5.mp3 ", poster: "images/5.jpg"},
@@ -16,7 +16,9 @@ var myPlaylist = new jPlayerPlaylist({
      { title: "Standing still ", artist: "Roman Lob", mp3:"images/10.mp3", poster: "images/10.jpg"},
      { title: "Comethru", artist: "Jeremy Zucker", mp3:"images/11.mp3 ", poster: "images/11.jpg"},
      { title: "Somewhere Only We Know", artist: "Kean", mp3:"images/12.mp3", poster: "images/12.jpg"},
-
+     { title: "Every Breath You Take ", artist: "Music Travel Love", mp3:"images/13.mp3", poster: "images/13.jpg"},
+     { title: "Im All About You", artist: "Aaron Carter", mp3:"images/15.mp3 ", poster: "images/15.jpg"},
+     
  ],
     {playlistOptions:{enableRemoveControls: true},
     swfPath: "js/",
