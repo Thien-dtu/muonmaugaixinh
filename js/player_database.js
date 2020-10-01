@@ -6,6 +6,8 @@ var myPlaylist = new jPlayerPlaylist({
  [
      { title: "Bạn chưa chơi đồ ", artist: "Shin", mp3:"images/1.mp3", poster: "images/1.jpg"},
      { title: "Về bên anh ", artist: "Jack", mp3:"images/2.mp3", poster: "images/2.jpg"},
+     { title: "OK", artist: "BinZ", mp3:"images/3.mp3", poster: "images/3.jpg"},
+     { title: "Đôi mắt", artist: "ACENS", mp3:"images/16.mp3", poster: "images/16.jpg"},
      { title: "Miss You Like Crazy", artist: "TheMoffatts", mp3:"images/3.mp3", poster: "images/3.jpg"},
      { title: "Best Of Me ", artist: "Daniel Powter", mp3:"images/4.mp3", poster: "images/4.jpg"},
      { title: "Every Day I Love You", artist: "Boyzone", mp3:"images/5.mp3 ", poster: "images/5.jpg"},
